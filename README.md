@@ -1,5 +1,5 @@
 # Mistral-7B Dynamic Adaptation Project
-*Coming Soon!*
+
 
 
 ## Introduction
